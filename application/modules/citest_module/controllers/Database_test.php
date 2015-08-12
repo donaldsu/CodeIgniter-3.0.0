@@ -323,6 +323,12 @@ class Database_test extends MX_Controller {
 		$this->db->cache_delete_all();
 	}
 	
+	public function demo21()
+	{
+		echo 'Donald update this file to test Git';
+	}
+	
+	
 	
 	
 }
