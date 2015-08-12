@@ -323,6 +323,11 @@ class Database_test extends MX_Controller {
 		$this->db->cache_delete_all();
 	}
 	
+	public function demo21()
+	{
+		echo 'Hello Donald su, I am Donald ar.';
+	}
+	
 	
 	
 }
