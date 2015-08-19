@@ -222,8 +222,12 @@ class Fishing_game extends MX_Controller {
 		echo $this->get_rand($prize_arr);	
 	}
 	
-	
-	
+	public function demo()
+	{
+		
+		
+		
+	}
 	
 	
 	
